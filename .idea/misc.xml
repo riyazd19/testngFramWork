@@ -5,6 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/frameWorkDesign/pom.xml" />
+        <option value="$PROJECT_DIR$/EndToEndSeleniumFrameWork/pom.xml" />
+        <option value="$PROJECT_DIR$/ScreenShotDemo/pom.xml" />
       </list>
     </option>
   </component>
